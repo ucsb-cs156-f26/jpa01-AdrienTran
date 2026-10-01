@@ -1,7 +1,6 @@
 # jpa01-adrientran
 
-
-Deployed at: http://jpa01-adrientran.dokku-12.cs.ucsb.edu/
+Deployed at: http://jpa01-adrientran.dokku-12.cs.ucsb.edu
 
 
 # About this repo
